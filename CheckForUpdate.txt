@@ -1,2 +1,2 @@
-SYK-Mirror应用安装程序;Version;1.0.0;Url;https://sourl.cn/nWxrSC
+SYK-Mirror应用安装程序;Version;1.0.0;Url;https://oss.shandianpan.com/38efe9325f8aef5f0ede522bba587030.exe
 我更新拉
